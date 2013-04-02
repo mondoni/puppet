@@ -1,14 +1,12 @@
-# Puppet Files
+# Description 
 
-## Description 
-
-Puppet modules that I created to manage:
+Puppet modules that I have created to manage:
 
 * Authorized SSH Keys
 * HTTPD config file
 * Red Hat like repositories
 
-## Repositories
+# Repositories
 
 * Fedora
 * Fedora RPM Fusion Free
